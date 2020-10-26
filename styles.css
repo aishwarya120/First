@@ -1,0 +1,21 @@
+.error{
+    text-align:right;
+    font-size: 4;
+    font-style: normal;
+    color:black;
+
+}
+.logo{
+    text-align:left;
+}
+.about{
+    border-width: 1px;
+    border-style:solid;
+    font-size:15px;
+    
+}
+#c1{
+    font-size:30px;
+    font-style:arial;
+}
+
